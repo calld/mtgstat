@@ -1,3 +1,5 @@
 # mtgstat
 
-collection of programs that model aspects of magic the gathering in order to learn statistical data
+Code is currently in Python 3.5
+
+collection of programs that model aspects of Magic the Gathering in order to learn statistical data
